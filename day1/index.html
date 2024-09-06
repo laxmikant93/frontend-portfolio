@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <title>Laxmikant Swain</title>
+</head>
+<body>
+    <div id="devops">
+        <p>{{ message }}</p>
+        <p>{{ currentWord }}</p>
+    </div>
+</body>
+<script>
+    const { createApp, ref } = Vue;
+    createApp({
+        setup() {
+            const message = ref('Hello Laxmikant Swain');
+            const currentWord = ref('');
+            const words = ['Hello', 'World', 'Vue', 'JavaScript'];
+            let index = 0;
+
+            function changeWord() {
+                if (index < words.length) {
+                    currentWord.value = words[index];
+                    index++;
+                    setTimeout(changeWord, 3000);
+                }
+            }
+
+            changeWord();
+
+            return {
+                message,
+                currentWord
+            }
+        }
+    }).mount('#devops');
+</script>
+</html>
