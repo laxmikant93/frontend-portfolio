@@ -1,0 +1,32 @@
+{ "index": { "_index": "premier_league_players", "_id": "1" } }
+{ "player_name": "Pep Guardiola", "team": "Manchester City", "position": "Manager", "birthdate": "1971-01-18" }
+{ "index": { "_index": "premier_league_players", "_id": "2" } }
+{ "player_name": "Erling Haaland", "team": "Manchester City", "position": "Forward", "birthdate": "2000-07-21" }
+{ "index": { "_index": "premier_league_players", "_id": "3" } }
+{ "player_name": "Bernado Silva", "team": "Manchester City", "position": "Right Winger", "birthdate": "1994-08-10" }
+{ "index": { "_index": "premier_league_players", "_id": "4" } }
+{ "player_name": "Jack Grealish", "team": "Manchester City", "position": "Left Winger", "birthdate": "1995-09-10" }
+{ "index": { "_index": "premier_league_players", "_id": "5" } }
+{ "player_name": "Ilkay gundogan", "team": "Manchester City", "position": "Centre Midfielder", "birthdate": "1990-10-24" }
+{ "index": { "_index": "premier_league_players", "_id": "6" } }
+{ "player_name": "Rodrigo", "team": "Manchester City", "position": "Centre Defense Midfielder", "birthdate": "1996-06-22" }
+{ "index": { "_index": "premier_league_players", "_id": "7" } }
+{ "player_name": "Mateo Kovacic", "team": "Manchester City", "position": "Centre Midfielder", "birthdate": "1994-05-06" }
+{ "index": { "_index": "premier_league_players", "_id": "8" } }
+{ "player_name": "Kevin De Bruyne", "team": "Manchester City", "position": "Centre Attacking Midfielder", "birthdate": "1991-06-28" }
+{ "index": { "_index": "premier_league_players", "_id": "9" } }
+{ "player_name": "Nathan Ake", "team": "Manchester City", "position": "Left Back", "birthdate": "1995-02-18" }
+{ "index": { "_index": "premier_league_players", "_id": "10" } }
+{ "player_name": "Phil Foden", "team": "Manchester City", "position": "Left Winger", "birthdate": "2000-05-28" }
+{ "index": { "_index": "premier_league_players", "_id": "11" } }
+{ "player_name": "Ruben Dias", "team": "Manchester City", "position": "Centre Back", "birthdate": "2000-07-21" }
+{ "index": { "_index": "premier_league_players", "_id": "12" } }
+{ "player_name": "John Stones", "team": "Manchester City", "position": "Centre Back", "birthdate": "1994-05-28" }
+{ "index": { "_index": "premier_league_players", "_id": "13" } }
+{ "player_name": "Kyle Walker", "team": "Manchester City", "position": "Right Back", "birthdate": "1990-05-28" }
+{ "index": { "_index": "premier_league_players", "_id": "14" } }
+
+
+
+
+
